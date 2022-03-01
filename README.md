@@ -1,6 +1,6 @@
 # Chapter9
-Chapter 9 HTML Forms
-In this lesson you will learn:
+## Chapter 9 HTML Forms
+### In this lesson you will learn:
 How forms work
 The form element
 Text entry controls
